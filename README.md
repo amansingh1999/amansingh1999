@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Docker, Kubernetes and AWS**
 
-- 💬 Ask me about **Java, Maven and Linux and Shell**
+- 💬 Ask me about **Java, Maven Linux and Shell**
 
 - 📫 How to reach me **amansinghgwl0@gmail.com**
 
